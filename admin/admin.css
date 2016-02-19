@@ -1,0 +1,30 @@
+.hubwoo-preloader  {
+     position: absolute;
+     top: 0;
+     left: 0;
+     right: 0;
+     bottom: 0;
+     background-color: #fff;
+     z-index: 99;
+    height: 100%;
+    text-align: center;
+    display: none;
+ }
+
+.hubwoo-status  {
+     width: 400px;
+     height: 400px;
+     position: absolute;
+     left: 50%;
+     top: 50%;
+     margin: -100px 0 0 -200px;
+ }
+
+.hubwoo-status h1,.hubwoo-status p{
+       text-align: center;
+     font-size: 14px;
+     color:#f57722;
+}
+.hubwoo-status h1{
+     font-size: 30px;
+}
