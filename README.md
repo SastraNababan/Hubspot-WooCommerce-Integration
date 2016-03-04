@@ -1,6 +1,7 @@
 
 # Hubspot WooCommerce Integration
 ![](https://dl.dropboxusercontent.com/u/36449584/cover.png)
+
 Hubspot Woocommerce Integration allow you to easily integrate Hubspot with WooCommerce allowing customers to subscribe to lists of your choosing
 
 ## **Features List**
